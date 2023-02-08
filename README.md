@@ -1,5 +1,5 @@
 # My Cheat Sheets
 
-## [Fish](fish.md)
-## [nvim](nvim.md)
-## [tmux](tmux.md)
+### 1. [Fish](fish.md)
+### 2. [nvim](nvim.md)
+### 3. [tmux](tmux.md)
